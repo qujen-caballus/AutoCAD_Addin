@@ -1,0 +1,14 @@
+﻿
+bin/
+
+obj/
+
+Properties/
+
+*.jpg
+
+*.csproj
+
+*.config
+
+*.user
